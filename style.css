@@ -1,0 +1,66 @@
+body{
+  background:rgba(232, 230, 230, 0.982);
+  font-family: sans-serif;
+  color: #444;
+  max-width: 960px;
+  margin: 100px auto;
+  padding: 10px;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+nav h1{
+  margin: 0;
+}
+nav a{
+  color: white;
+  text-decoration: none;
+  background: teal;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+form{
+  max-width:90%;
+}
+form button, .delete-btn{
+  color: white;
+  background: teal;
+  padding: 10px;
+  border-radius: 8px;
+  border: 0;
+  outline: 0;
+}
+input, textarea{
+  display: block;
+  margin: 16px 0;
+  padding: 6px 10px;
+  width: 100%;
+  border: 1px solid #ddd;
+  outline: 0;
+}
+
+textarea{
+  min-height: 200px;
+
+}
+
+.post{
+  padding: 16px;
+  background: white;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+.post h2{
+  margin-top: 0;
+  color: teal;
+}
+.post p{
+  margin-top: 0;
+}
+
+.post a{
+  color: teal;
+}

@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "3",
+      "title": "New Products in the Market",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit, Debitis quaerat sapiente consequuntur nesciunt molestiae cumque, accusamus laborum aliquam necessitatibus perferendis suscipit aperiam eius vero magni atque voluptates aliquid? Doloremque, laborum corrupti iusto molestias natus quo.Repudiandae modi similique nulla laboriosam",
+      "likes": 44
+    },
+    {
+      "id": "4",
+      "title": "Economic Crises: Naira crashes against the dollar",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit, Debitis quaerat sapiente consequuntur nesciunt molestiae cumque, accusamus laborum aliquam necessitatibus perferendis suscipit aperiam eius vero magni atque voluptates aliquid? Doloremque, laborum corrupti iusto molestias natus quo.Repudiandae modi similique nulla laboriosam",
+      "likes": 11
+    },
+    {
+      "id": "1da1",
+      "title": "Tinubu Regime: Pros & Cons",
+      "body": " \"Lorem ipsum, dolor sit amet consectetur adipisicing elit, Debitis quaerat sapiente consequuntur nesciunt molestiae cumque, accusamus laborum aliquam necessitatibus perferendis suscipit aperiam eius vero magni atque voluptates aliquid? Doloremque, laborum corrupti iusto molestias natus quo.Repudiandae modi similique nulla laboriosam\",\n",
+      "likes": 4
+    },
+    {
+      "id": "97e6",
+      "title": "cool",
+      "body": "vcddfvg fffff ghgfderf nmhyjyu",
+      "likes": 5
+    }
+  ]
+}
